@@ -1,0 +1,28 @@
+__default__:
+  - "-q q2680v2"
+
+split_fasta:
+  - "-q normal"
+
+run_trf:
+  - "-q normal"
+  - "-M 20GB"
+  - "-n 1"
+  - "-R rusage[mem=20GB]"
+
+EDTARepeatmasker:
+  - "-q normal"
+  - "-M 30GB"
+  - "-n 36"
+  - "-R rusage[mem=30GB]"
+
+trf_masked:
+  - "-q q2680v2"
+  - "-n 20"
+  - "-M 250GB"
+  - "-R rusage[mem=250GB]"
+
+RepeatSeq_RepeatMasker_soft_01:
+  - "-q normal"
+  - "-n 20"
+  - "-M 50GB"
