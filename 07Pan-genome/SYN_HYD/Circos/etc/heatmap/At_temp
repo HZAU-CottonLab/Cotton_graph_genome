@@ -1,0 +1,307 @@
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/ZY238.txt
+        r0         = 0.3147r
+        r1         = 0.3217r 
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/XZ142.txt
+        r0         = 0.3294r
+        r1         = 0.3364r
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/ZY236.txt
+        r0         = 0.3441r
+        r1         = 0.3511r
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/ZY10.txt
+        r0         = 0.3588r
+        r1         = 0.36582r
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/P19.txt
+        r0         = 0.37352r
+        r1         = 0.38052r
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/ZY006.txt
+        r0         = 0.38823r
+        r1         = 0.39523r
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/P20.txt
+        r0         = 0.40294r
+        r1         = 0.4099r
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/HC15.txt
+        r0         = 0.4176r
+        r1         = 0.4246r
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/ZY461.txt
+        r0         = 0.43235r
+        r1         = 0.43935r
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/XJ74.txt
+        r0         = 0.44705r
+        r1         = 0.45405r
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/ZY381.txt
+        r0         = 0.46176r
+        r1         = 0.46876r
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/ZY384.txt
+        r0         = 0.47647r
+        r1         = 0.48347r
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/ZY354.txt
+        r0         = 0.4911r
+        r1         = 0.49817r
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/ZY184.txt
+        r0         = 0.5058r
+        r1         = 0.5128r
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/TW075.txt
+        r0         = 0.5205r
+        r1         = 0.52758r 
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/P01.txt
+        r0         = 0.5352r
+        r1         = 0.5422r
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/TW064.txt
+        r0         = 0.55r
+        r1         = 0.557r 
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/TW100.txt
+        r0         = 0.56470r
+        r1         = 0.57170r 
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/TW077.txt
+        r0         = 0.5794r
+        r1         = 0.58641r 
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/TW007.txt
+        r0         = 0.59411r
+        r1         = 0.6011r 
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/P04.txt
+        r0         = 0.60882r
+        r1         = 0.61582r 
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/TW013.txt
+        r0         = 0.6235r
+        r1         = 0.63052r 
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/TW055.txt
+        r0         = 0.63823r
+        r1         = 0.64523r 
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/TW029.txt
+        r0         = 0.6529r
+        r1         = 0.65994r 
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/P02.txt
+        r0         = 0.66764r
+        r1         = 0.674647r 
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/HW03.txt
+        r0         = 0.68235r
+        r1         = 0.68935r
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/HW07.txt
+        r0         = 0.69705r
+        r1         = 0.70405r 
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/TW134.txt
+        r0         = 0.71176r
+        r1         = 0.71876r 
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/TW094.txt
+        r0         = 0.72647r
+        r1         = 0.73347r 
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/TW091.txt
+        r0         = 0.7411r
+        r1         = 0.74817r 
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/HW06.txt
+        r0         = 0.75588r
+        r1         = 0.76288r 
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/TW031.txt
+        r0         = 0.77058r
+        r1         = 0.77758r 
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/HW05.txt
+        r0         = 0.7852r
+        r1         = 0.79229r 
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>
+    <plot>
+        type   = heatmap 
+        max     = 1100000
+        min = 900000
+        file       = feature/heatmap/At/TW026.txt
+        r0         = 0.8r
+        r1         = 0.807r  
+        color = ylorrd-8-seq-1,ylorrd-8-seq-2,ylorrd-8-seq-3,ylorrd-8-seq-4,ylorrd-8-seq-5,ylorrd-8-seq-6,ylorrd-8-seq-7,ylorrd-8-seq-8
+    </plot>

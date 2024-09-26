@@ -1,0 +1,307 @@
+ <highlight>
+        z          = 0
+        file       = feature/highlight/A2/J85.bed
+        r0         = 0.8r
+        r1         = 0.815r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/A2/J98.bed
+        r0         = 0.782r
+        r1         = 0.797r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/A2/DC001.bed
+        r0         = 0.764r
+        r1         = 0.779r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/A2/DC053.bed
+        r0         = 0.747r
+        r1         = 0.762r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/A2/DC086.bed
+        r0         = 0.729r
+        r1         = 0.744r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/A2/DC089.bed
+        r0         = 0.711r
+        r1         = 0.726r
+    </highlight>
+
+    <highlight>
+        z          = 0
+        file       = feature/highlight/A2/DC097.bed
+        r0         = 0.694r
+        r1         = 0.709r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/A2/DC113.bed
+        r0         = 0.676r
+        r1         = 0.691r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/A2/DC119.bed
+        r0         = 0.658r
+        r1         = 0.673r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/A2/DC133.bed
+        r0         = 0.641r
+        r1         = 0.656r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/A2/DC146.bed
+        r0         = 0.623r
+        r1         = 0.638r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/A2/DC151.bed
+        r0         = 0.605r
+        r1         = 0.620r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/A2/DC165.bed
+        r0         = 0.588r
+        r1         = 0.603r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/A2/DC175.bed
+        r0         = 0.570r
+        r1         = 0.585r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/A2/DC212.bed
+        r0         = 0.552r
+        r1         = 0.567r
+    </highlight>
+
+
+
+
+
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/HC04.bed
+        r0         = 0.8r
+        r1         = 0.815r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/ZY238.bed
+        r0         = 0.782r
+        r1         = 0.797r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/XZ142.bed
+        r0         = 0.764r
+        r1         = 0.779r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/ZY236.bed
+        r0         = 0.747r
+        r1         = 0.762r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/ZY10.bed
+        r0         = 0.729r
+        r1         = 0.744r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/P19.bed
+        r0         = 0.711r
+        r1         = 0.726r
+    </highlight>
+
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/ZY006.bed
+        r0         = 0.694r
+        r1         = 0.709r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/P20.bed
+        r0         = 0.676r
+        r1         = 0.691r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/HC15.bed
+        r0         = 0.658r
+        r1         = 0.673r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/ZY461.bed
+        r0         = 0.641r
+        r1         = 0.656r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/XJ74.bed
+        r0         = 0.623r
+        r1         = 0.638r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/ZY381.bed
+        r0         = 0.605r
+        r1         = 0.620r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/ZY384.bed
+        r0         = 0.588r
+        r1         = 0.603r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/ZY354.bed
+        r0         = 0.570r
+        r1         = 0.585r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/ZY184.bed
+        r0         = 0.552r
+        r1         = 0.567r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/TW075.bed
+        r0         = 0.535r
+        r1         = 0.550r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/P01.bed
+        r0         = 0.517r
+        r1         = 0.532r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/TW064.bed
+        r0         = 0.5r
+        r1         = 0.515r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/TW100.bed
+        r0         = 0.482r
+        r1         = 0.497r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/TW077.bed
+        r0         = 0.464r
+        r1         = 0.479r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/TW007.bed
+        r0         = 0.447r
+        r1         = 0.462r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/P04.bed
+        r0         = 0.429r
+        r1         = 0.444r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/TW013.bed
+        r0         = 0.411r
+        r1         = 0.426r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/TW055.bed
+        r0         = 0.394r
+        r1         = 0.409r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/TW029.bed
+        r0         = 0.376r
+        r1         = 0.391r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/P02.bed
+        r0         = 0.358r
+        r1         = 0.373r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/HW03.bed
+        r0         = 0.341r
+        r1         = 0.356r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/HW07.bed
+        r0         = 0.323r
+        r1         = 0.338r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/TW134.bed
+        r0         = 0.305r
+        r1         = 0.320r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/TW094.bed
+        r0         = 0.288r
+        r1         = 0.303r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/TW091.bed
+        r0         = 0.270r
+        r1         = 0.285r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/HW06.bed
+        r0         = 0.252r
+        r1         = 0.267r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/TW031.bed
+        r0         = 0.235r
+        r1         = 0.250r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/HW05.bed
+        r0         = 0.217r
+        r1         = 0.232r
+    </highlight>
+    <highlight>
+        z          = 0
+        file       = feature/highlight/At/TW026.bed
+        r0         = 0.2r
+        r1         = 0.215r
+    </highlight>
