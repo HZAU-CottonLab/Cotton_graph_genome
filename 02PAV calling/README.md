@@ -4,11 +4,11 @@
  * @Author: zpliu
  * @Date: 2024-09-26 10:07:46
  * @LastEditors: zpliu
- * @LastEditTime: 2024-09-26 10:20:45
+ * @LastEditTime: 2024-09-26 12:11:13
  * @@param: 
 -->
 
-### Cacuts between AD1 and DC085
+### Cacuts between AD1 and A2
 
 ```bash
 cactus-prepare seqFile.config --defaultCores 10 \
@@ -17,7 +17,7 @@ cactus-prepare seqFile.config --defaultCores 10 \
     --outHal Gossypium-steps-output/evolverGossypium.hal --jobStore jobstore >Gossypium-step-by-step.sh
 ```
 
-### miniGraph-Cactus in 15 DC085 and 35 AD1
+### miniGraph-Cactus in 15 A2 and 35 AD1
 
 ```bash 
 
@@ -40,20 +40,20 @@ done
 ```
 
 
-### directory Gebnome_VG
+### Directory `graph_vg`
 + `microRearrange` Get micro-rearrange from graph genome
 + `rules` and `script`  Deconstruct PAV from VG file
 
 
-###  directory `halLiftover` 
+### Directory `halLiftover` 
 
 + `bed_liftover.py` Unify the coordinates of multiple genomes
 
 
 
-###  directory `longReadCall` 
+###  Directory `long-readCalling` 
 
-> Scripts for identification of structural variation between diploid and tetraploid cotton genomes 
+> Scripts for identification of PAV in tetraploid cotton genomes based on ONT long-reads.
 
 + `01.sniffles_cuteSV_svim.sh`  Three bioinformatics tools, sniffles, cuteSV, and svim, were used to detect SVs based on ONT long-read mapping of 25 AD1 accessions
 + `02.SV merge genotype.sh` SURVIVOR merges SVs from multiple tools and SVs from multiple materials to obtain the final SV Genotype

@@ -4,7 +4,7 @@
  * @Author: zpliu
  * @Date: 2024-09-26 10:28:35
  * @LastEditors: zpliu
- * @LastEditTime: 2024-09-26 10:28:35
+ * @LastEditTime: 2024-09-26 12:14:11
  * @@param: 
 -->
 ### RUN EDTA maksed using Snakemake workflow
@@ -27,6 +27,12 @@ cut -f1-3 Masked/HC04_trf.bed |bedtools sort -i - | bedtools merge -i - \
 #TODO get softmask region
 python ./scripts/get_softMaskedBed.py HC04-Repeat_TRF_softMasked.fa HC04_maskedRegion.bed 
 
-
 ```
+
+
+
++ `getLTRCluster.py`   Extract the clustering results of full-length LTR from cdhit
++ `run_flLTR_family.py`  Calculate the similarity of LTR between each two genomes
++ `Pan_1000times.py`     Calculate the number of pan-LTRs and core-LTRs based on randomly sampled 1000 times
++ `Mean_SD.py`           Calculate the mean and standard error
 
