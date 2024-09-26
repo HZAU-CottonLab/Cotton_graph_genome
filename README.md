@@ -1,5 +1,6 @@
 
-# Scripts used in cotton pan genome project
+# Scripts utilized for the graph-based pan-genome analysis of cotton
+
 
 ### Document description
 + `01_Genome assembly`  Genome assembly analysis
