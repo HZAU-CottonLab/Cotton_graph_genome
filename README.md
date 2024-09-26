@@ -1,18 +1,18 @@
 
-
 # Scripts used in cotton pan genome project
 
+### Document description
++ `01_Genome assembly`  Genome assembly analysis
++ `02_PAV calling`  PVA calling process
++ `03_SNP calling`  SNP calling process
++ `04_GO Annotation`  GO annotation analysis
++ `05_Introgression block analysis`  Introgression block analysis
++ `06_Full-length LTR identification`  Full-length LTR identification
++ `07_Pan-genome construction` Pan-genome construction 
++ `08_RNA-seq analysis` Gene expression and PAV-eQTL analysis
++ `09_GWAS` PAV based GWAS analysis
 
-+ `01Genome assembly`  Genome assembly analysis
-+ `02PAV calling`  PVA calling process
-+ `03SNP calling`  SNP calling process
-+ `04GO_Annotate`  GO enrichment analysis
-+ `05Introgression`  Introgression analysis
-+ `06full-length LTR`  Transposon element analysis
-+ `07Pan-genome` Pan genome analysis 
-+ `08RNA-seq ` Gene expression and PAV-eQTL analysiys
-
-
+*** 
 
 
 ### Pipeline for PAV calling

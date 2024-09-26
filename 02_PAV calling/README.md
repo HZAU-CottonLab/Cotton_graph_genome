@@ -4,7 +4,7 @@
  * @Author: zpliu
  * @Date: 2024-09-26 10:07:46
  * @LastEditors: zpliu
- * @LastEditTime: 2024-09-26 12:11:13
+ * @LastEditTime: 2024-09-26 19:22:29
  * @@param: 
 -->
 
@@ -41,7 +41,7 @@ done
 
 
 ### Directory `graph_vg`
-+ `microRearrange` Get micro-rearrange from graph genome
++ `microRearrangement` Get Micro-rearrangement from graph genome
 + `rules` and `script`  Deconstruct PAV from VG file
 
 

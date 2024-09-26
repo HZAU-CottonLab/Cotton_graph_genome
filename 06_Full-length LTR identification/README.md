@@ -4,10 +4,10 @@
  * @Author: zpliu
  * @Date: 2024-09-26 10:28:35
  * @LastEditors: zpliu
- * @LastEditTime: 2024-09-26 12:14:11
+ * @LastEditTime: 2024-09-26 19:23:09
  * @@param: 
 -->
-### RUN EDTA maksed using Snakemake workflow
+### RUN EDTA masked using Snakemake workflow
 
 ```bash
 #TODO Run the snakemake process
